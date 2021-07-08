@@ -1,2 +1,2 @@
-# csharp-my-works
-c# my works
+# Csharp-my-works
+C# 
