@@ -37,7 +37,7 @@ This repository is for my C# works.
   <table> 
     <tr>
         <td>  <img align="left" src="screenshots/guessingnumbersss/guessingnumbersss1.jpg" alt="guessingnumbers" width ="400" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/guessingnumbersss/guessingnumbersss1.jpg" alt="guessingnumbers" width ="400" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/guessingnumbersss/guessingnumbersss2.jpg" alt="guessingnumbers" width ="400" height = "300" /></p></td>
     </tr>
    </table>
 
