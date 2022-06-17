@@ -13,7 +13,7 @@ This repository is for my C# works.
 
 ## Table of Contents
 
-* [General Info](#CET-301)
+* [General Info](#Csharp-my-works)
 * [Technologies Used](#Technologies)
 * [Prerequisites](#Prerequisites)
 * [Features](#Features)
