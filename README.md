@@ -2,10 +2,20 @@
     
 # Csharp-my-works
 
+<div align="center">
+    
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/Csharp-my-works)](https://img.shields.io/github/issues/Alierenkayhan/Csharp-my-works)
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/Csharp-my-works)](https://img.shields.io/github/forks/Alierenkayhan/Csharp-my-works)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/Csharp-my-works)](https://img.shields.io/github/stars/Alierenkayhan/Csharp-my-works)
 [![GitHub license:](https://img.shields.io/github/license/Alierenkayhan/Csharp-my-works)](https://img.shields.io/github/license/Alierenkayhan/Csharp-my-works)
+![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Csharp-my-works/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/Csharp-my-works)
+![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/Csharp-my-works)
+![Website](https://img.shields.io/website?down_message=Personal%20website&up_message=Personal%20website&url=https%3A%2F%2Falierenkayhan.github.io%2F)
+![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/Csharp-my-works?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/Csharp-my-works)
+    
+</div>
 
 This repository is for my C# works. 
  
