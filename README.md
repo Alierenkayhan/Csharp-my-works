@@ -4,15 +4,17 @@
 
 <div align="center">
     
+![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/Csharp-my-works?style=social)   
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/Csharp-my-works)](https://img.shields.io/github/issues/Alierenkayhan/Csharp-my-works)
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/Csharp-my-works)](https://img.shields.io/github/forks/Alierenkayhan/Csharp-my-works)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/Csharp-my-works)](https://img.shields.io/github/stars/Alierenkayhan/Csharp-my-works)
-[![GitHub license:](https://img.shields.io/github/license/Alierenkayhan/Csharp-my-works)](https://img.shields.io/github/license/Alierenkayhan/Csharp-my-works)
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/Csharp-my-works)](https://github.com/Alierenkayhan/Csharp-my-works/blob/main/LICENSE)    
 ![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Csharp-my-works/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/Csharp-my-works)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/Csharp-my-works)
-![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/Csharp-my-works?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/Csharp-my-works)
+ 
+ 
     
 </div>
 
