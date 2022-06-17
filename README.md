@@ -43,7 +43,7 @@ This repository is for my C# works.
 
 ## How To Use  
   -Download the repository.<br/>
-  -Export the zip.<br/>
+  -Export it from zip.<br/>
   -Find the file which has with ".csproj" extension and open with visual studio or your other editor.<br/>
  
 ## Lisans
