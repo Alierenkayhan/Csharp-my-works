@@ -18,7 +18,7 @@ This repository is for my C# works.
 * [Prerequisites](#Prerequisites)
 * [Features](#Features)
 * [Screenshots](#Screenshots)
-* [Howtouse](#How To Use)
+* [Setup](#Setup)
 * [Lisans](#Lisans)
 * [Feedback](#Feedback)
 * [Reference](#Reference)
@@ -41,7 +41,7 @@ This repository is for my C# works.
     </tr>
    </table>
 
-## How To Use  
+## Setup  
   -Download the repository.<br/>
   -Export it from zip.<br/>
   -Find the file which has with ".csproj" extension and open with visual studio or your other editor.<br/>
