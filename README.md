@@ -18,7 +18,7 @@
     
 </div>
 
-This repository is for my C# works. 
+This repository is the collection of my C# works. 
  
 
 
