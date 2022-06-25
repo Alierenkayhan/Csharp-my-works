@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/c%23.jpeg" alt="Alierenkayhan" width ="1100" height = "400" /></p>
+<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/c%23.jpeg" alt="Alierenkayhan" width ="100%" height = "auto" /></p>
     
 # Csharp-my-works
 
@@ -47,8 +47,8 @@ This repository is the collection of my C# works.
   1-Screenshots of guessingnumbers
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/guessingnumbersss/guessingnumbersss1.jpg" alt="guessingnumbers" width ="400" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/guessingnumbersss/guessingnumbersss2.jpg" alt="guessingnumbers" width ="400" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/guessingnumbersss/guessingnumbersss1.jpg" alt="guessingnumbers" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/guessingnumbersss/guessingnumbersss2.jpg" alt="guessingnumbers" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
