@@ -13,8 +13,11 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/Csharp-my-works)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/Csharp-my-works)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/Csharp-my-works)
- 
- 
+
+![GitHub search hit counter](https://img.shields.io/github/search/Alierenkayhan/Csharp-my-works/goto)
+<a href="/Alierenkayhan/Csharp-my-works/archive/refs/heads/main.zip">
+<img src="https://img.shields.io/badge/Download-Project-blue" />
+</a>
     
 </div>
 
