@@ -24,11 +24,10 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/Csharp-my-works)
 ![GitHub top language](https://img.shields.io/github/languages/top/Alierenkayhan/Csharp-my-works) 
 
-![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fshields.io)
-<a href="https://github.com/Alierenkayhan/Csharp-my-works/archive/refs/heads/main.zip">
-<img src="https://img.shields.io/badge/Download-Project-blue" /></a>
 ![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Csharp-my-works/total)
-
+ <a href="https://github.com/Alierenkayhan/Csharp-my-works/archive/refs/heads/main.zip">
+<img src="https://img.shields.io/badge/Download-Project-blue" /></a>
+  
     
 </div>
 
