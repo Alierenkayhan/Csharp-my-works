@@ -7,27 +7,28 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/Csharp-my-works?style=social)   
 ![GitHub forks](https://img.shields.io/github/forks/Alierenkayhan/Csharp-my-works?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Alierenkayhan/Csharp-my-works?style=social)
-    
+ 
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/Csharp-my-works)](https://github.com/Alierenkayhan/Csharp-my-works/blob/main/LICENSE)    
+ 
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/Csharp-my-works)](https://img.shields.io/github/issues/Alierenkayhan/Csharp-my-works)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Alierenkayhan/Csharp-my-works)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Alierenkayhan/Csharp-my-works)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Alierenkayhan/Csharp-my-works) 
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/Csharp-my-works)](https://img.shields.io/github/forks/Alierenkayhan/Csharp-my-works)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/Csharp-my-works)](https://img.shields.io/github/stars/Alierenkayhan/Csharp-my-works)
-[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/Csharp-my-works)](https://github.com/Alierenkayhan/Csharp-my-works/blob/main/LICENSE)    
-![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Csharp-my-works/total)
+![GitHub search hit counter](https://img.shields.io/github/search/Alierenkayhan/Csharp-my-works/goto)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alierenkayhan/Csharp-my-works)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/Csharp-my-works)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/Csharp-my-works)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/Csharp-my-works)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Alierenkayhan/Csharp-my-works)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Alierenkayhan/Csharp-my-works)   
-![GitHub search hit counter](https://img.shields.io/github/search/Alierenkayhan/Csharp-my-works/goto)
 ![GitHub top language](https://img.shields.io/github/languages/top/Alierenkayhan/Csharp-my-works) 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alierenkayhan/Csharp-my-works)
-![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/Csharp-my-works)
 
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fshields.io)
 <a href="/Alierenkayhan/Csharp-my-works/archive/refs/heads/main.zip">
 <img src="https://img.shields.io/badge/Download-Project-blue" />
 </a>
+![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Csharp-my-works/total)
 
     
 </div>
