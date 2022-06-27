@@ -28,6 +28,9 @@
 <a href="https://github.com/Alierenkayhan/Csharp-my-works/archive/refs/heads/main.zip">
 <img src="https://img.shields.io/badge/Download-Project-blue" />
 </a>
+<a href="x-github-client://openRepo/https://github.com/Alierenkayhan/Csharp-my-works">
+<img src="https://img.shields.io/badge/Open%20with-Github%20Desktop-brightgreen" />
+</a>
 ![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Csharp-my-works/total)
 
     
